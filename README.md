@@ -18,17 +18,31 @@ Here are some ideas to get you started:
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
 -->
 <div>
-  
+  <p>
 A passionate React Native and Full Stack Web Developer from Pakistan
-💬 Ask me anything related to mobile and web development
+  
+  </p>
+  <ul>
+    <li>
+      💬 Ask me anything related to mobile and web development
+    </li>
+      <li>
+        🤝 I can also help you design your Web and Mobile app
+    </li>
+      <li>
+        📫 To reach me, just drop a mail at bestabaidullahbutt@gmail.com
+    </li>
+  </ul>
 
-🤝 I can also help you design your Web and Mobile app
 
-📫 To reach me, just drop a mail at bestabaidullahbutt@gmail.com
 
+
+
+<hr/>
 </div>
 <div>
-          
+  <p>Programming Tools</p>
+  <hr/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   
           
@@ -42,7 +56,8 @@ A passionate React Native and Full Stack Web Developer from Pakistan
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  
+  <hr/>
+  <p>Github Stats</p>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abaidbutt&theme=dark)](https://git.io/streak-stats)
             
           
