@@ -58,7 +58,11 @@ A passionate React Native and Full Stack Web Developer from Pakistan
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <hr/>
   <p>Github Stats</p>
+  <hr/>
+  <div>
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abaidbutt&theme=dark)](https://git.io/streak-stats)
+    </div>
             
           
 </div>
