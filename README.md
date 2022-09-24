@@ -108,19 +108,11 @@ Here are some ideas to get you started:
 </div>  
   
 <br/>  
-
+<!--
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abaidbutt&&style=flat-square" align="center" />
 </div>  
-  
-
-
-
-
-
-----
-
-  <hr/>
+  -->
   <p>Github Stats</p>
   <hr/>
   <div>
