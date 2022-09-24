@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **abaidbutt/abaidbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="Next" width="40" height="40" /> &nbsp;
   
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
---><div align="center">
+-->
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -113,9 +114,9 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=abaidbutt&&style=flat-square" align="center" />
 </div>  
   -->
-
+### Github Stats 👋
   <hr/>
-  <div>
+  <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abaidbutt&theme=dark)](https://git.io/streak-stats)
     </div>
