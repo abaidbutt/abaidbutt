@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=abaidbutt&&style=flat-square" align="center" />
 </div>  
   -->
-  <p>Github Stats</p>
+  ## Github Stats
   <hr/>
   <div>
   
