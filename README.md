@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=abaidbutt&&style=flat-square" align="center" />
 </div>  
   -->
-### Github Stats 👋
+<p><strong> Github Stats 👋</strong></p>
   <hr/>
   <div align="center">
   
