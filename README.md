@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I have 2+ years of experience in web and mobile applications using JavaScript / React.js / Node.js / React Native / Web3 / Solidity.</div>  
+### <div align="center">Experienced full-stack developer with expertise in MERN STACK. Proficient in React, Redux, Node.js, Express, and MongoDB. Delivered numerous high-quality, scalable applications. Passionate about Web3.</div>  
   
 
 - 🔭 I’m currently working on  MERN Stack Project to build an ERP System 
