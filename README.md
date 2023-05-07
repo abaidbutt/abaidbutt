@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### <div align="center">I have 2+ years of experience in web and mobile applications using JavaScript / React.js / Node.js / React Native / Web3 / Solidity.</div>  
   
 
-- 🔭 I’m currently working on [Mobile app](https://apps.apple.com/us/app/keventers/id1631767587)  
+- 🔭 I’m currently working on  MERN Stack Project to build an ERP System 
   
 
 - 🌱 I’m currently learning Web3 and Solidity  
@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 
 - ❓ Ask me about anything related to MERN stack / React Native / Web3 / Solidity and related technologies  
   
-
-- ⚡ Fun fact: I use games and metaverse  
   
 
 <br/>  
