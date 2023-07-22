@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on  MERN Stack Project to build an ERP System 
   
 
-- 🌱 I’m currently learning Web3 and Solidity  
+- 🌱 I’m currently learning DevOps  
   
 
 - ❓ Ask me about anything related to MERN stack / React Native / Web3 / Solidity and related technologies  
