@@ -22,17 +22,28 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">Experienced full-stack developer with expertise in MERN STACK. Proficient in React, Redux, Node.js, Express, and MongoDB. Delivered numerous high-quality, scalable applications. Passionate about Web3.</div>  
-  
+## 👋 Hi there, I'm Abaid Ullah
 
-- 🔭 I’m currently working on  MERN Stack Project to build an ERP System 
-  
+Experienced full-stack developer with a strong foundation in the MERN stack, specializing in React, Redux, Node.js, Express, and MongoDB. I've successfully delivered numerous high-quality, scalable applications throughout my career.
 
-- 🌱 I’m currently learning DevOps  
-  
+### 🔭 What I'm Currently Working On
 
-- ❓ Ask me about anything related to MERN stack / React Native / Web3 / Solidity and related technologies  
-  
+I'm currently immersed in a Mobile Application Project, building an Chit Fund System. I'm excited about the challenges it presents and the innovative solutions we're implementing.
+
+### 🌱 What I'm Currently Learning
+
+I'm always eager to expand my knowledge. Currently, I'm diving into DevOps practices to enhance my development workflows and deployment processes.
+
+### ❓ Ask Me About
+
+Feel free to reach out for discussions or assistance on anything related to the following:
+- MERN stack development
+- React Native
+- Web3 and blockchain technologies
+- Solidity smart contract development
+- And more!
+
+I'm passionate about technology and always up for interesting discussions and collaborations. Let's connect and make things happen! 🚀
   
 
 <br/>  
