@@ -1,50 +1,39 @@
 
 
-<!--
-**abaidbutt/abaidbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="Next" width="40" height="40" /> &nbsp;
-  
-            <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
--->
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-## 👋 Hi there, I'm Abaid Ullah
+## Hey there! I'm Abaid Ullah 👋
 
-Experienced full-stack developer with a strong foundation in the MERN stack, specializing in React, Redux, Node.js, Express, and MongoDB. I've successfully delivered numerous high-quality, scalable applications throughout my career.
+I'm a Full-Stack & AI/ML Engineer who loves building smart, scalable applications. With expertise in React/Next.js, Node.js, and Python AI/ML, I've created 100+ solutions across industries like E-commerce, HealthTech, and Web3. My sweet spot? Combining robust full-stack development with cutting-edge AI.
+
 
 
 
 ### 🌱 What I'm Currently Learning
 
-I'm always eager to expand my knowledge. Currently, I'm diving into DevOps practices to enhance my development workflows and deployment processes.
+🔧 Deepening my DevOps knowledge to build even smoother development pipelines
+🚀 Exploring new ways to integrate AI into practical business applications
+
 
 ### ❓ Ask Me About
 
-Feel free to reach out for discussions or assistance on anything related to the following:
-- MERN stack development
-- React Native
-- Web3 and blockchain technologies
-- Solidity smart contract development
-- And more!
+• Building web/mobile apps (MERN stack & React Native)
+• Web3 development & Solidity smart contracts
+• AI implementations (LLMs, RAG systems, data pipelines)
+• Or just geek out about tech in general!
 
-I'm passionate about technology and always up for interesting discussions and collaborations. Let's connect and make things happen! 🚀
-  
-email: bestabaidullahbutt+github@gmail.com
+I'm always open to interesting conversations and collaborations. Let's connect and create something awesome together!
+<h3 align="left">Reach me at:</h3>
+
+email: bestabaidullahbutt@gmail.com
 <br/>  
+<p align="left">
+<a href="https://linkedin.com/in/abaidbutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abaiddevelopment" height="30" width="40" /></a>
+</p>
 
 
 ## My Skill Set  
