@@ -8,23 +8,23 @@
 
 ## Hey there! I'm Abaid Ullah 👋
 
-I'm a Full-Stack & AI/ML Engineer who loves building smart, scalable applications. With expertise in React/Next.js, Node.js, and Python AI/ML, I've created 100+ solutions across industries like E-commerce, HealthTech, and Web3. My sweet spot? Combining robust full-stack development with cutting-edge AI.
+I'm a Full-Stack & AI/ML Engineer who loves building smart, scalable applications. With React/Next.js, Node.js, and Python AI/ML expertise, I've created 100+ solutions across industries like E-commerce, HealthTech, and Web3 & Gen AI. My sweet spot? Combining robust full-stack development with cutting-edge AI.
 
 
 
 
 ### 🌱 What I'm Currently Learning
 
-🔧 Deepening my DevOps knowledge to build even smoother development pipelines
+🔧 Deepening my DevOps knowledge to build even smoother development pipelines<br/>
 🚀 Exploring new ways to integrate AI into practical business applications
 
 
 ### ❓ Ask Me About
 
-• Building web/mobile apps (MERN stack & React Native)
-• Web3 development & Solidity smart contracts
-• AI implementations (LLMs, RAG systems, data pipelines)
-• Or just geek out about tech in general!
+• Building web/mobile apps (MERN stack & React Native)<br/>
+• Web3 development & Solidity smart contracts<br/>
+• AI implementations (LLMs, RAG systems, data pipelines)<br/>
+• Or just geek out about tech in general!<br/>
 
 I'm always open to interesting conversations and collaborations. Let's connect and create something awesome together!
 <h3 align="left">Reach me at:</h3>
