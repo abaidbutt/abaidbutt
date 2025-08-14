@@ -24,7 +24,7 @@ I'm a Full-Stack & AI/ML Engineer who loves building smart, scalable application
 • Building web/mobile apps (MERN stack & React Native)<br/>
 • Web3 development & Solidity smart contracts<br/>
 • AI implementations (LLMs, RAG systems, data pipelines)<br/>
-• Or just geek out about tech in general!<br/>
+• Or just geek out about AI/tech in general!<br/>
 
 I'm always open to interesting conversations and collaborations. Let's connect and create something awesome together!
 <h3 align="left">Reach me at:</h3>
